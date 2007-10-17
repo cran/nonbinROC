@@ -1,0 +1,16 @@
+a1d63487663aa5a5a34b077132f09b3f *DESCRIPTION
+9fdfeb11f7ddba6f3aab9aaa6b1ac5dd *NAMESPACE
+f50fff0502d5ef2c5c22bb16bf9d837a *R/contROC.R
+e123b50fa3b79ea18b9d1a145a97ce8c *R/nomROC.R
+4ec7fb5d9f11623fd29c755276e6d581 *R/ordROC.R
+fc310c9c594a60daa295b1bcdb8c0904 *data/abpain.rda
+15adbfed7b90bd287700aa8917dd1c74 *data/blood.rda
+b9b7f30393378a16d5659fac5e790341 *data/heart.rda
+5cc3dc162b3e7cdfa28a941ab1df830b *data/tumor.rda
+8a869bbd83503a3562cc26306e9dd801 *man/abpain.Rd
+84c3faf1985ac4ab6b65367a92afd535 *man/blood.Rd
+6f8b34c94a35fad37ab1e8a7893fe8b0 *man/contROC.Rd
+dde3c47e116c952d3253aa098963aa42 *man/heart.Rd
+86dcb55527c36f879b9ca5372765c236 *man/nomROC.Rd
+d32d69ffe96f8cd54fb7b31d2aa500bc *man/ordROC.Rd
+40db15505ddd9314bc88443b0e4b0b1f *man/tumor.Rd
